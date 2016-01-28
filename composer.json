@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-		"alevento/repo1": "dev-master"
+		"alevento/repo2": "dev-master"
     },
     "require-dev": {
 
