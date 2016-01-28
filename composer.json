@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-		"padosoft/test"
+		"alevento/repo2"
     },
     "require-dev": {
 
